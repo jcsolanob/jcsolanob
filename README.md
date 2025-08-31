@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan Solano.<br>📌 Final-year student in Applied Mathematics to Management<br>💻 Interested in data analysis, optimization, and operations research<br>⚡ With knowledge in Python, SQL, C, and Excel<br>📊 Background in contact center operations (metrics, performance, optimization)</p>
+<p align="left">My name is Juan Solano.<br>📌 Final-year student in Applied Mathematics to Management<br>💻 Interested in data analysis, optimization, and operational research<br>⚡ With knowledge in Python, SQL, C, and Excel<br>📊 Background in contact center operations (metrics, performance, optimization)</p>
 
 ###
 
